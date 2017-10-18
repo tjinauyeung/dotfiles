@@ -1,0 +1,29 @@
+{
+	"name": "Theme-GitHubCleanWhite",
+	"displayName": "GitHub Clean White Theme",
+	"description": "GitHub-like Theme for Visual Studio Code",
+	"version": "0.0.3",
+	"publisher": "saviorisdead",
+	"repository": "https://github.com/saviorisdead/vscode-github-clean-white-theme",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "GitHub Clean White",
+				"uiTheme": "vs",
+				"path": "./themes/GitHubCleanWhite.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "12fc8d63-f74f-44df-bd1b-a09d6f307f33",
+		"publisherId": "a0ec41cb-a226-4a46-9c18-0ea1dadd0529",
+		"publisherDisplayName": "saviorisdead"
+	}
+}
